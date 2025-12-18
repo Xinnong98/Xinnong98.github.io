@@ -1,6 +1,6 @@
 ---
 layout: about
-title: ABOUT ME
+title: HOME
 permalink: /
 subtitle: <a>PhD candidate | Dr. Robert Bies Lab | University at Buffalo</a>. <p><a href="mailto:xli267@buffalo.edu">xli267@buffalo.edu</a></p>
 
