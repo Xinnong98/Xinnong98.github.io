@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a>PhD candidate | Dr. Robert Bies Lab | University at Buffalo</a>. <p><a href="mailto:xli267@buffalo.edu">xli267@buffalo.edu</a></p>
 
 profile:
   align: right
