@@ -30,4 +30,4 @@ I am a Ph.D. candidate in Pharmaceutical Sciences at University at Buffalo. I re
 
 My research background includes PopPK model development, machine learning application in pharmacometrics, as well as PBPK model buidling. Specifically, I made contribution to the pyDarwin toolbox development, developed PBPK model for the female reproductive tract, and participated in the long-acting injectable cabotegravir subproject. 
 
-
+[Download CV Here]({{ https://xinnong98.github.io }}/assets/pdf/xinnongli_cv.pdf)
