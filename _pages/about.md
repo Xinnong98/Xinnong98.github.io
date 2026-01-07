@@ -6,7 +6,7 @@ subtitle: <a>PhD candidate | Dr. Robert Bies Lab | University at Buffalo</a>. <p
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: xinnongli.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University at Buffalo</p>
