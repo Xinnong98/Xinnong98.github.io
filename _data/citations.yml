@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-27'
 papers:
   zQS1R80AAAAJ:9yKSN-GCB0IC:
-    citations: 2
+    citations: 3
     title: 'PBPK models of the female reproductive tract: current and future analysis'
     year: '2025'
   zQS1R80AAAAJ:IjCSPb-OGe4C:
     citations: 1
     title: Physiologically based pharmacokinetic model of drug delivery in the female reproductive tract
     year: '2024'
+  zQS1R80AAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: "Mechanism\u2010Based Predictions of Local Tissue and Systemic Exposure for Drug Products Delivered Through the Female Reproductive Tract"
+    year: '2026'
   zQS1R80AAAAJ:d1gkVwhDpl0C:
-    citations: 17
+    citations: 19
     title: "pyDarwin: a machine learning enhanced automated nonlinear mixed\u2010effect model selection toolbox"
     year: '2024'
   zQS1R80AAAAJ:u-x6o8ySG0sC:
@@ -20,4 +24,4 @@ papers:
   zQS1R80AAAAJ:zYLM7Y9cAGgC:
     citations: 0
     title: Estimation of prevention-effective CAB-LA concentrations among men who have sex with men (MSM) and transgender women (TGW) in HPTN 083
-    year: '2025'
+    year: '2026'
