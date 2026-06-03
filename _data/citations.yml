@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-06-03'
 papers:
   zQS1R80AAAAJ:9yKSN-GCB0IC:
     citations: 4
@@ -13,12 +13,20 @@ papers:
     citations: 0
     title: "Mechanism\u2010Based Predictions of Local Tissue and Systemic Exposure for Drug Products Delivered Through the Female Reproductive Tract"
     year: '2026'
+  zQS1R80AAAAJ:W7OEmFMy1HYC:
+    citations: 1
+    title: 'Multi-objective optimization in population pharmacokinetic model selection and optimization: application of NSGA-II in pyDarwin'
+    year: '2026'
+  zQS1R80AAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: Application of NSGA-II and pyDarwin in Multi-objective Optimization for Population Pharmacokinetic (PopPK) Model Selection
+    year: '2026'
   zQS1R80AAAAJ:d1gkVwhDpl0C:
-    citations: 21
+    citations: 22
     title: "pyDarwin: a machine learning enhanced automated nonlinear mixed\u2010effect model selection toolbox"
     year: '2024'
   zQS1R80AAAAJ:u-x6o8ySG0sC:
-    citations: 8
+    citations: 9
     title: pyDarwin machine learning algorithms application and comparison in nonlinear mixed-effect model selection and optimization
     year: '2024'
   zQS1R80AAAAJ:zYLM7Y9cAGgC:
